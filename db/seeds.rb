@@ -7,3 +7,9 @@
 #   ["Action", "Comedy", "Drama", "Horror"].each do |genre_name|
 #     MovieGenre.find_or_create_by!(name: genre_name)
 #   end
+puts "destroy all users"
+User.destroy_all
+puts "no users yet"
+puts "create user"
+User.create(email:"tg@gmail.com", password: "123456789")
+puts "tg user created"
