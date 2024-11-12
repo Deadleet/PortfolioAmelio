@@ -14,3 +14,38 @@ $headers-font: "Nunito", "Helvetica", "sans-serif";
 //        font-url('FontFile.ttf') format('truetype')
 // }
 // $my-font: "Font Name";
+.marvel-regular {
+  font-family: "Marvel", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.marvel-bold {
+  font-family: "Marvel", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.marvel-regular-italic {
+  font-family: "Marvel", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.marvel-bold-italic {
+  font-family: "Marvel", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.sevillana-regular {
+  font-family: "Sevillana", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.new-amsterdam-regular {
+  font-family: "New Amsterdam", serif;
+  font-weight: 400;
+  font-style: normal;
+}
